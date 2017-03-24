@@ -1,8 +1,22 @@
 .flag{
-height: 150px;
-width: 200px;
-margin: auto;
+  height: 400px;
+  width: 700px;
+
 }
-.red{
- background-color:#ff0000;
+.flag div{
+  height: 100%;
+  width: 30%;
+  padding:inherit;
+  margin:inherit;
+}
+.sides{
+background-color: #CC0000;
+display: inline-block;
+}
+.leaf{
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Red_Maple_Leaf.svg/2000px-Red_Maple_Leaf.svg.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: inline-block;
 }

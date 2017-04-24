@@ -1,11 +1,13 @@
-body{
+body {
   background-color: #1ebaaf;
 }
-h1{
+
+h1 {
   text-align: center;
 }
-img{
+
+img {
   display: block;
-  margin:auto;
+  margin: auto;
   width: 40%;
 }

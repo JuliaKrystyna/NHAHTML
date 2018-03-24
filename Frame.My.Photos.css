@@ -1,15 +1,18 @@
-.frame{
+.frame {
   border: 8px solid black;
 }
-div.Picture1{
+
+div.Picture1 {
   height: 17px;
   width: 18px;
 }
-div.Picture2{
+
+div.Picture2 {
   height: 17px;
   width: 18px;
 }
-div.Picture3{
+
+div.Picture3 {
   height: 17px;
   width: 18px;
 }

@@ -1,19 +1,21 @@
-.flag{
+.flag {
   height: 400px;
   width: 700px;
-
 }
-.flag div{
+
+.flag div {
   height: 100%;
   width: 30%;
-  padding:inherit;
-  margin:inherit;
+  padding: inherit;
+  margin: inherit;
 }
-.sides{
-background-color: #CC0000;
-display: inline-block;
+
+.sides {
+  background-color: #CC0000;
+  display: inline-block;
 }
-.leaf{
+
+.leaf {
   background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Red_Maple_Leaf.svg/2000px-Red_Maple_Leaf.svg.png);
   background-size: contain;
   background-repeat: no-repeat;

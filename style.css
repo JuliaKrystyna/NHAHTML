@@ -1,21 +1,24 @@
-body{
-   background-color: #000000;
-   text-align: center;
-   background:url("http://rs3.pbsrc.com/albums/y77/ThisIsJustAFad/Backgrounds/Musical/falling-music-notes-1214.gif~c200")
- }
-h1 {
-  color:#ffffff;
+body {
+  background-color: #000000;
+  text-align: center;
+  background: url("http://rs3.pbsrc.com/albums/y77/ThisIsJustAFad/Backgrounds/Musical/falling-music-notes-1214.gif~c200")
 }
-p{
+
+h1 {
+  color: #ffffff;
+}
+
+p {
   color: #6cf6d2;
 }
-.julia{
+
+.julia {
   color: #c9aeff;
 }
 
-div.bodytext{
-  background:rgba(255,255,255,0.6);
-  width:70%;
+div.bodytext {
+  background: rgba(255, 255, 255, 0.6);
+  width: 70%;
   padding: 20px;
   text-align: center;
   font-family: 'Indie Flower', cursive;
